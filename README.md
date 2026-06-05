@@ -1,16 +1,80 @@
-## Hi there 👋
-
 <!--
-**Holuneru/Holuneru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Это твоя визитная карточка. Размести этот файл в репозитории: 
+  https://github.com/Holuneru/Holuneru
 -->
+
+## 👋 Привет, я Иван (Holuneru)
+
+**Java-разработчик** (бэкенд), учусь в 8-м классе.  
+Ищу команду для участия в хакатонах и совместных проектах. Люблю решать реальные задачи и быстро учиться новому.
+
+---
+
+### 🛠️ Мой стек
+
+| Технология | Уровень |
+|------------|---------|
+| Java 17+ | Продвинутый |
+| Spring Boot (Web, Data JPA, Security) | Уверенный |
+| JPA / Hibernate | Продвинутый |
+| PostgreSQL | Средний |
+| Docker | Базовый |
+| Git / GitHub | Уверенный |
+| REST API / Swagger | Уверенный |
+| HTML / CSS / JS | Базовый |
+| Основы Python | Базовый |
+
+---
+
+### 🚀 Проекты, которые показывают мой уровень
+
+1. **[Advertising System](https://github.com/Holuneru/AdvertisingSystem)**  
+   Система таргетированной рекламы. JPA, JOIN FETCH, MapStruct, Telegram-бот.
+
+2. **[Polling App](https://github.com/Holuneru/PollingApp)**  
+   Опросы с голосованием, уникальность голосов, подсчёт результатов.
+
+3. **[Booking Meeting Rooms](https://github.com/Holuneru/booking_meeting_rooms)**  
+   Бронирование переговорок с проверкой пересечения дат, шедулеры.
+
+4. **[To-Do List с JWT](https://github.com/Holuneru/To-Do_List)**  
+   Spring Security + JWT, авторизация, привязка задач к пользователю.
+
+5. **[Library (учебный)](https://github.com/Holuneru/library)**  
+   Монолитное приложение с сущностями и JOIN FETCH.
+
+---
+
+### 🎯 Сейчас изучаю / планирую
+
+- Микросервисы (Spring Cloud, Feign, Kafka)
+- Docker Compose
+- Алгоритмы и структуры данных (готовлюсь к собеседованиям)
+
+---
+
+### 🤝 Что ищу
+
+- **Тиммейтов для хакатонов** (любые роли — бэкенд, фронтенд, менеджмент)
+- **Наставника** для совместного пет-проекта или code review
+- **Команду для open-source контрибьюта** (хочу попробовать)
+
+---
+
+### 📫 Как связаться
+
+- **GitHub**: [Holuneru](https://github.com/Holuneru)
+- **Telegram**: @Holuneru (указывай свой реальный ник)
+- **Email**: ivan@example.com (замени на реальный)
+
+> 💡 Если ты тоже ищешь команду для хакатона — пиши! Буду рад обсудить идеи.
+
+---
+
+### 📌 Несколько слов обо мне
+
+Мне 15 лет, я учусь в 8-м классе. Программирую с 13 лет. Легко нахожу общий язык в команде, не боюсь сложных задач, быстро разбираюсь в незнакомом коде. Участвовал в олимпиадах по математике, информатике и физике (Россети, Учи.ру, ВСОШ). Постоянно учу новое и веду этот профиль.
+
+---
+
+⭐ **Если хочешь предложить совместный проект или просто поболтать — смело пиши в Telegram!**
