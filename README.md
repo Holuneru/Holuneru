@@ -32,7 +32,7 @@
 2. **[Polling App](https://github.com/Holuneru/PollingApp)**  
    Опросы с голосованием, уникальность голосов, подсчёт результатов.
 
-3. **[Booking Meeting Rooms]([https://github.com/Holuneru/booking_meeting_rooms](https://github.com/Holuneru/meeting_rooms))**  
+3. **[Booking Meeting Rooms](https://github.com/Holuneru/meeting_rooms)**  
    Бронирование переговорок с проверкой пересечения дат, шедулеры.
 
 ---
